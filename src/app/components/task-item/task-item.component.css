@@ -3,7 +3,11 @@
 }
 
 .task {
-    background: cornsilk;
+    background: rgb(243, 243, 243);
     padding: 20px;
     margin: 10px;
+}
+
+button {
+   float:right;
 }
